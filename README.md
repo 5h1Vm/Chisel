@@ -1,2 +1,2 @@
 # Chisel
-File carver in C!
+File carver!
